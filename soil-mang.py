@@ -11,9 +11,9 @@ fake = Faker()
 # MySQL Database Connection Details
 DB_CONFIG = {
     "host": "localhost",
-    "user": "root",
-    "password": "sashri@12345",
-    "database": "soil_management"
+    "user": "Your username",
+    "password": "Your password",
+    "database": "Your Database Name"
 }
 
 # Initialize Streamlit state for messages
